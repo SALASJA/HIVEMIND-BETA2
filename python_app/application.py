@@ -1,4 +1,5 @@
 import tkinter as tk
+import register_login as rl
 from controllers.main_controller import MainController
 from models.transceiver_interfaces.master_transceiver_interface import MasterTransceiverInterface
 from views.main_view import MainView
